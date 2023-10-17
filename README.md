@@ -7,20 +7,20 @@
 
 ![IB](https://user-images.githubusercontent.com/91469398/215422029-837fda12-58be-4fbe-8110-a9572b777844.jpg)
 
-![NETWORKS][Сети передачи данных и безопасность.pdf](https://github.com/acizi/Certificates/files/12925292/default.pdf)
+![Attack and Defence](https://github.com/acizi/Certificates/assets/91469398/44b2ae0a-8592-447d-86f9-8bc22402bf8a)
 
-[Безопасность ОС.pdf](https://github.com/acizi/Certificates/files/12925309/default.pdf)
+![Screenshot_1](https://github.com/acizi/Certificates/assets/91469398/e13e4075-e9c1-4325-bca9-b6f9ae34b606)
 
-[Реагирование на инцинденты ИБ.pdf](https://github.com/acizi/Certificates/files/12925311/default.pdf)
+![Webb app](https://github.com/acizi/Certificates/assets/91469398/f9d5cea7-a200-42c2-990e-6fc26d01a821)
 
-[Webb app.pdf](https://github.com/acizi/Certificates/files/12925314/Webb.app.pdf)
+![Безопасность ОС](https://github.com/acizi/Certificates/assets/91469398/b3d88896-6623-46b3-97a7-ecde15f5db9c)
 
-[Современная разработка ПО.pdf](https://github.com/acizi/Certificates/files/12925320/default.pdf)
+![Разработка ПО](https://github.com/acizi/Certificates/assets/91469398/ab90be69-2394-4075-8537-f62c1c1a0aa4)
 
-[Attack and Defence.pdf](https://github.com/acizi/Certificates/files/12925316/Attack.and.Defence.pdf)
+![Реагирование на инциденты ИБ](https://github.com/acizi/Certificates/assets/91469398/a6804ba7-452c-456e-88e7-4e1800fc76f6)
 
-[Современная киберпреступность.pdf](https://github.com/acizi/Certificates/files/12925318/default.pdf)
+![сети](https://github.com/acizi/Certificates/assets/91469398/5266e879-ed1d-4f21-a67e-bef7da0d04b5)
 
-[Завершение курса.pdf](https://github.com/acizi/Certificates/files/12925325/default.pdf)
+![Свидетельство](https://github.com/acizi/Certificates/assets/91469398/5acc9cfd-6e61-431a-b609-2df49a43e6ea)
 
-[F.A.C.C.T.pdf](https://github.com/acizi/Certificates/files/12925329/F.A.C.C.T.pdf)
+![F A C C T](https://github.com/acizi/Certificates/assets/91469398/95425d38-ad01-4a16-b95a-15bff0f63ee0)
